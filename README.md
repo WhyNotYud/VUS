@@ -38,7 +38,7 @@ VUS/
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/yourusername/vus-website.git
+   git clone https://github.com/WhyNotYud/VUS.git
    ```
 2. Open index.html in browser
 
